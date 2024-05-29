@@ -80,7 +80,19 @@ Minha experiência na área atravessou por diversas fases sócio econômicas e t
 -->
 ![Delphi](https://img.shields.io/badge/Delphi-B22222?style=plastic&logo=delphi&logoColor=white)
 
+## Estatíticas
+<div align="center">
 
+[![Status de alanccezar](https://github-readme-stats.vercel.app/api?username=alanccezar&hide=prs,issues,contribs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alanccezar&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
+![Contribuições](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alanccezar&theme=tokyonight)
+![Estatíticas](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alanccezar&theme=tokyonight)
+![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alanccezar&theme=tokyonight&utcOffset=-3)
+[![trophy](https://github-profile-trophy.vercel.app/?username=alanccezar&theme=tokyonight&rank=C,B,A,AA,AAA,S,SS,SSS&no-frame=true&margin-w=15&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 <!--
 **alanccezar/alanccezar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
