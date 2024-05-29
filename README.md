@@ -26,6 +26,7 @@ Minha experiência na área atravessou por diversas fases sócio econômicas e t
 - PostgreSQL
 - Power BI
 -->
+<!--
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -38,6 +39,20 @@ Minha experiência na área atravessou por diversas fases sócio econômicas e t
 ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+-->
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
+![Next](https://img.shields.io/badge/next%20js-000000?style=plastic&logo=nextdotjs&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white)
+![Node](https://img.shields.io/badge/Node%20js-339933?style=plastic&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=plastic&logo=git&logoColor=white)
+![MySql](https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white)
+![PostgreSql](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=plastic&logo=Power%20BI&logoColor=white)
+
 <!--
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="50px"/>
@@ -60,7 +75,10 @@ Minha experiência na área atravessou por diversas fases sócio econômicas e t
 - Pascal
 - Delphi
 -->
+<!--
 ![Delphi](https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white)
+-->
+![Delphi](https://img.shields.io/badge/Delphi-B22222?style=plastic&logo=delphi&logoColor=white)
 
 
 <!--
