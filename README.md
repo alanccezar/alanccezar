@@ -1,5 +1,5 @@
-## Olá 👋
 <!--
+## Olá 👋
 ![Boas Vindas](./github-header-image.png)
 -->
 ![Boas Vindas](./github-header-image.gif)
