@@ -93,6 +93,14 @@ Minha experiência na área atravessou por diversas fases sócio econômicas e t
 [![trophy](https://github-profile-trophy.vercel.app/?username=alanccezar&theme=tokyonight&rank=C,B,A,AA,AAA,S,SS,SSS&no-frame=true&margin-w=15&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+
+## Me encontre
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alancezar/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/alanccezar)
+
+
+
+
 <!--
 **alanccezar/alanccezar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
