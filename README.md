@@ -101,9 +101,7 @@ Minha experiência na área atravessou por diversas fases sócio econômicas e t
 ## 🔍 Me encontre
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alancezar/)
 [![X](https://img.shields.io/badge/X-000000?style=plastic&logo=x&logoColor=white)](https://x.com/alanccezar)
-
-
-
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=white)](https://discord.com/channels/@alanccezar)
 
 <!--
 **alanccezar/alanccezar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
