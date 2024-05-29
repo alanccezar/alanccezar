@@ -8,7 +8,7 @@
 Meu nome é Alan, desde 1994 trabalho na crição e desenvolvimento de soluções tecnológicas para gestão de empresas de FIDC, Securitização, Fomento Mercantil e Trustee. 
 Sou CEO Founder da [**Financetec**](https://financetec.info), empresa criada em 2008 especializada na criação de soluções para os setores supracitados.
 
-Minha experiência na área atravessou por diversas fases sócio econômicas e tecnológicas que serviram de aprendizado incomensuráveis sobre negócios e a necessidade de atualização constante voltada à minha perpetuação como profissional da tecnologia em um mercado cada vez mais competitivo.
+Minha experiência na área atravessou por diversas fases sócio econômicas e tecnológicas que serviram de aprendizado incomensuráveis sobre negócios e a necessidade de atualização constante voltada à minha jornada como profissional de tecnologia em um mercado cada vez mais competitivo.
 
 - 🚀 Meu Lema: Pra cima e pra frente sempre!
 - 🌱 Aprendiz por natureza, adoro novos desafios
