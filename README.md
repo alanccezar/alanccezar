@@ -80,7 +80,7 @@ Minha experiência na área atravessou por diversas fases sócio econômicas e t
 -->
 ![Delphi](https://img.shields.io/badge/Delphi-B22222?style=plastic&logo=delphi&logoColor=white)
 
-## Estatíticas
+## 📋 Estatíticas
 <div align="center">
 
 [![Status de alanccezar](https://github-readme-stats.vercel.app/api?username=alanccezar&hide=prs,issues,contribs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
@@ -94,9 +94,9 @@ Minha experiência na área atravessou por diversas fases sócio econômicas e t
 
 </div>
 
-## Me encontre
+## 🔍 Me encontre
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alancezar/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/alanccezar)
+[![X](https://img.shields.io/badge/X-000000?style=plastic&logo=x&logoColor=white)](https://x.com/alanccezar)
 
 
 
