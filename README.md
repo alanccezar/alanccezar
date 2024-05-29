@@ -11,7 +11,7 @@ Minha experiência na área atravessou por diversas fases sócio econômicas e t
 - 🎷 Hobbie: Saxofonista nas horas vagas
 
 ## 🌟 Tecnologias com as quais estou trabalhando atualmente
-- HTML
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="50px"/>        
 - CSS
 - Javascript
 - PHP
