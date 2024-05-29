@@ -1,6 +1,6 @@
 ## Olá 👋
 
-### Quem sou eu?
+### 🤔 Quem sou eu?
 Meu nome é Alan, desde 1994 trabalho na crição e desenvolvimento de soluções tecnológicas para gestão de empresas de FIDC, Securitização, Fomento Mercantil e Trustee. 
 Hoje estou à frente da [**Financetec**](https://financetec.info), empresa especializada na criação de soluções para os setores supracitados.
 
@@ -10,7 +10,7 @@ Minha experiência na área atravessou por diversas fases sócio econômicas e t
 - 🌱 Aprendiz por natureza, adoro novos desafios
 - 🎷 Hobbie: Saxofonista nas horas vagas
 
-## Tecnologias com as quais estou trabalhando atualmente
+## 🌟 Tecnologias com as quais estou trabalhando atualmente
 - HTML
 - CSS
 - Javascript
@@ -19,8 +19,9 @@ Minha experiência na área atravessou por diversas fases sócio econômicas e t
 - Firebird
 - MySql
 - PostgreSQL
+- Power BI
 
-## Tecnologias que já trabalhei
+## ⭐ Tecnologias que já trabalhei
 - Basic
 - Quickbasic
 - Clipper
