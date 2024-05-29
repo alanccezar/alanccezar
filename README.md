@@ -1,4 +1,8 @@
 ## Olá 👋
+<!--
+![Boas Vindas](./github-header-image.png)
+-->
+![Boas Vindas](./github-header-image.gif)
 
 ### 🤔 Quem sou eu?
 Meu nome é Alan, desde 1994 trabalho na crição e desenvolvimento de soluções tecnológicas para gestão de empresas de FIDC, Securitização, Fomento Mercantil e Trustee. 
