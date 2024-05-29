@@ -10,6 +10,22 @@ Minha experiência na área atravessou por diversas fases sócio econômicas e t
 - 🌱 Aprendiz por natureza, adoro novos desafios
 - 🎷 Hobbie: Saxofonista nas horas vagas
 
+## Tecnologias com as quais estou trabalhando atualmente
+- HTML
+- CSS
+- Javascript
+- PHP
+- React
+- Firebird
+- MySql
+- PostgreSQL
+
+## Tecnologias que já trabalhei
+- Basic
+- Quickbasic
+- Clipper
+- Pascal
+- Delphi
 
 
 <!--
