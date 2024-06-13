@@ -6,7 +6,7 @@
 
 ### 🤔 Quem sou eu?
 Meu nome é Alan, desde 1994 trabalho na crição e desenvolvimento de soluções tecnológicas para gestão de empresas de FIDC, Securitização, Fomento Mercantil e Trustee. 
-Sou CEO Founder da [**Financetec**](https://financetec.info), empresa criada em 2008 especializada na criação de soluções para os setores supracitados.
+Sou CEO & Founder da [**Financetec**](https://financetec.info), empresa criada em 2008 especializada na criação de soluções para os setores supracitados.
 
 Minha experiência na área atravessou por diversas fases sócio econômicas e tecnológicas que serviram de aprendizado incomensuráveis sobre negócios e a necessidade de atualização constante voltada à minha bem-sucedida jornada como profissional de tecnologia em um mercado cada vez mais competitivo.
 
